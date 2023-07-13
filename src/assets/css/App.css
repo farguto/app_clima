@@ -28,4 +28,14 @@
 
 }
 
+@media (max-width: 1250px) {
+ 
+ 
+
+  .App{
+    box-shadow: none; 
+    background: none;
+  }
+}
+
  
